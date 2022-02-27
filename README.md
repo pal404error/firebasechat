@@ -1,4 +1,4 @@
-# Firebase Web Codelab - Final code
+# Firebase - Final code
 
 To start
 
