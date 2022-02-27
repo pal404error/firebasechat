@@ -3,7 +3,7 @@ Part of NoteCafe
 
 
 
-#Start
+Start
 npm install
 
 firebase serve --only hosting
