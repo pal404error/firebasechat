@@ -7,13 +7,7 @@
  * 4. Copy the config object snippet, then add it here.
  */
 const config = {
-  apiKey: "AIzaSyDOQXX5mymdcG0-xLPruH3iQuJWF17FY2c",
-  authDomain: "chat2-7d546.firebaseapp.com",
-  projectId: "chat2-7d546",
-  storageBucket: "chat2-7d546.appspot.com",
-  messagingSenderId: "205229888721",
-  appId: "1:205229888721:web:794a0b54634c3d500061f0",
-  measurementId: "G-VZC9ZFCBWT"
+// Config
 };
 
 export function getFirebaseConfig() {
