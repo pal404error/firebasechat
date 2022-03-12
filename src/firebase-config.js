@@ -7,14 +7,7 @@
  * 4. Copy the config object snippet, then add it here.
  */
 const config = {
-  apiKey: "AIzaSyB41nNz0Xym9UTpfCF2LyrdRG8gaAUJsRo",
-  authDomain: "chatcafelogic.firebaseapp.com",
-  databaseURL: "https://chatcafelogic-default-rtdb.firebaseio.com",
-  projectId: "chatcafelogic",
-  storageBucket: "chatcafelogic.appspot.com",
-  messagingSenderId: "1082856990507",
-  appId: "1:1082856990507:web:67c867d596716aa9a9476e",
-  measurementId: "G-LZSXMHQGSC"
+
 };
 
 export function getFirebaseConfig() {
